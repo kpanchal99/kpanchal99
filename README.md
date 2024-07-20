@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpanchal99&label=Profile%20views&color=0e75b6&style=flat" alt="kpanchal99" /> </p>
 
-- 🌱 I’m currently learning **MERN stack and AWS**
+- 🌱 I’m currently learning **Spring Boot and AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
